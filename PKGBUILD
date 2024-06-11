@@ -2,7 +2,7 @@
 # Maintainer: Andrea Feletto <andrea@andreafeletto.com>
 
 pkgname=gmid
-pkgver=2.0.2
+pkgver=2.0.5
 pkgrel=1
 pkgdesc='Fast Gemini server written with security in mind.'
 arch=('x86_64')
@@ -16,7 +16,7 @@ source=(
 	"gmid.conf"
 )
 sha256sums=(
-	'61baf50d3d1c86d4ce4fceea9e422a336db4259b76052bbc8eec1d47abb417c9'
+	'3328ebf277c597e175762089d38767adae13d70b7c2624ede738ec7108272539'
 	'61450ba6fb7283b03f099e5172cf4e64bf40093ad2bd126b7915940d40922c9a'
 	'4d943727a57dbf5f246963c0f90ccc54919cc2296538457e6b16f29f7580d9d6'
 )
